@@ -2,6 +2,9 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   preview: {
-    allowedHosts: 'all'
+    allowedHosts: true
+  },
+  server: {
+    allowedHosts: true
   }
 })
