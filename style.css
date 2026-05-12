@@ -427,8 +427,8 @@ p {
   background-image: url('/marcas_logo.png');
   background-size: 1024px 448px;
   background-repeat: no-repeat;
-  /* filter: grayscale(100%) contrast(300%) brightness(120%) opacity(0.95);
-  mix-blend-mode: screen; */
+  filter: grayscale(100%) contrast(300%) brightness(130%) opacity(0.9);
+  mix-blend-mode: screen;
   transition: all 0.4s ease;
   clip-path: inset(2px 2px 2px 2px);
   transform: scale(1.15);
