@@ -424,7 +424,7 @@ p {
 .brand-item-sprite {
   width: 256px;
   height: 112px;
-  background-image: url('./public/marcas_logo.png');
+  background-image: url('marcas_logo.png');
   background-size: 1024px 448px;
   background-repeat: no-repeat;
   filter: grayscale(100%) contrast(300%) brightness(120%) opacity(0.95);
